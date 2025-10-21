@@ -44,21 +44,7 @@ A concise, fully reproducible exploratory data analysis (EDA) and initial modeli
 
 ---
 
-## ▶️ How to run (local / Colab)
-1. Clone the repo:
-   - git clone https://github.com/kshirod46/Cancer-Data-Analysis.git
-2. Install dependencies (recommended in a virtualenv):
-   - pip install pandas numpy seaborn matplotlib kagglehub ydata-profiling scikit-learn scipy statsmodels
-3. Options:
-   - Notebook (recommended): open `🎗️Cancer_Data_Analysis (1).ipynb` in Jupyter/Colab. The notebook:
-     - loads the dataset via `kagglehub`,
-     - runs a ydata profiling report,
-     - generates EDA visualizations,
-     - runs statistical tests and Random Forest pipeline.
-   - Script: run `python "🎗️cancer_data_analysis.py"` (may need minor edits to view interactive outputs or save reports).
-4. Data access:
-   - The notebook uses `kagglehub.load_dataset` for `zahidmughal2343/global-cancer-patients-2015-2024`.
-   - Ensure network access and Kaggle credentials (if required by `kagglehub`).
+
 
 ---
 
