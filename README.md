@@ -11,6 +11,7 @@ A concise, fully reproducible exploratory data analysis (EDA) and initial modeli
 - `🎗️Cancer_Data_Analysis (1).ipynb` — Jupyter/Colab notebook with full EDA, profiling, visualizations, tests, and modeling.
 - `🎗️cancer_data_analysis.py` — Script auto-exported from the notebook (same steps in script form).
 - `Cancer Data Anlysis.pdf` — Exported static report.
+- Colab NoteBook : - https://colab.research.google.com/drive/1FEqMAfgENttkK3NibSnGDnDCDeRAMUqo?usp=sharing
 - `README.md` — This file.
 
 ---
@@ -69,6 +70,6 @@ A concise, fully reproducible exploratory data analysis (EDA) and initial modeli
 
 ## 📬 Contact
 - Author: kshirod46 (GitHub)
-- If you'd like this README adapted (short executive version, portfolio landing, or `requirements.txt` + run script), I can add it.
+- https://bio.link/kshirod46
 
 ```
